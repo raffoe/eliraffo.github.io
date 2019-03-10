@@ -7,6 +7,6 @@
 ## Projects with JavaScript
 
 ## Projects with Python
-[Wine Classification](eliraffo.github.io/WineClassification/README.md)
+[Wine Classification](https://github.com/eliraffo/eliraffo.github.io/tree/master/WineClassification)
 
 ## Projects with R (To be Added)
