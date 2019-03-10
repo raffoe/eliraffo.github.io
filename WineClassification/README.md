@@ -1,4 +1,4 @@
 # Wine Classification Project
 
 ## Files
-[Dataset](eliraffo.github.io/WineClassification/winequality.xlsx)
+[Dataset](eliraffo.github.io/WineClassification/winequality.csv)
