@@ -2,7 +2,7 @@
 
 ## Projects with Excel
 
-## Projects with MySQL
+## Projects with SQL
 
 ## Projects with JavaScript
 
