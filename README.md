@@ -7,11 +7,11 @@ Professional Qualifications and Projects
 
 ## Operations and Business Analytic Projects:
 - Project and Operations Management Models (OBA 466)
-  - [Wine Classification](https://github.com/eliraffo/eliraffo.github.io/tree/master/WineClassification/)
+  - Hershey's Optimization
 - Business Database Management Systems (OBA 444)
   - Video Game Database
 - Predictive Analytics (OBA 410)
-  - Wine Classification
+  - [Wine Classification](https://github.com/eliraffo/eliraffo.github.io/tree/master/WineClassification/)
 
 ## Programming Exercises:
 - Python
