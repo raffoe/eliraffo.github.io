@@ -2,21 +2,21 @@
 Professional Qualifications and Projects  
 
 ## Resume and Portfolio:  
-Resume  
-Portfolio (To Be Added)  
+- Resume
+- Portfolio
 
-## Operations and Business Analytic Projects:  
-Project and Operations Management Models (OBA 466)  
+## Operations and Business Analytic Projects:
+- Project and Operations Management Models (OBA 466)
   - Hershey's Optimization
-Business Database Management Systems (OBA 444)  
+- Business Database Management Systems (OBA 444)
   - Video Game Database
-Predictive Analytics (OBA 410)  
+- Predictive Analytics (OBA 410)
   - [Wine Classification](https://github.com/eliraffo/eliraffo.github.io/tree/master/WineClassification/)
 
-## Programming Exercises:  
-Python  
+## Programming Exercises:
+- Python
   - To Be Added
-JavaScript  
+- JavaScript
   - To Be Added
-SQL  
+- SQL
   - To Be Added
