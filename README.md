@@ -1,8 +1,9 @@
 # Elijah Raffo  
 Professional Qualifications and Projects  
 
-## Curriculum Vitae:  
-| Resume  | Portfolio |
+| ## Curriculum Vitae: |  
+| --- | --- |
+| Row 1 Cell 1 | Row 1 Cell 2 |
 
 ## Operations and Business Analytic Projects:
 - Project and Operations Management Models (OBA 466)
