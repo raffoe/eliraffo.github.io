@@ -1,7 +1,7 @@
 # Elijah Raffo  
 Professional Qualifications and Projects  
 
-## Resume and Portfolio:  
+## Curriculum Vitae:  
 - Resume
 - Portfolio
 
