@@ -1,7 +1,7 @@
 # Elijah Raffo  
 Professional Qualifications and Projects  
 
-| ## Curriculum Vitae: |  
+## Curriculum Vitae:
 | --- | --- |
 | Row 1 Cell 1 | Row 1 Cell 2 |
 
