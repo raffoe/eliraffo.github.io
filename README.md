@@ -2,8 +2,7 @@
 Professional Qualifications and Projects  
 
 ## Curriculum Vitae:  
-Resume  
-Portfolio  
+Resume | Portfolio  
 
 ## Operations and Business Analytic Projects:
 - Project and Operations Management Models (OBA 466)
