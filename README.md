@@ -2,9 +2,6 @@
 Professional Qualification, Experience, and Projects
 
 ## Curriculum Vitae:
-### Overview:
-An operations and business analyst with a passion for utilizing information to create and implement impactful solutions. Completed analytic projects in business operations, large datasets, automation, and measuring key performance indicators. Has experienced working within in a fast-paced environment, building a team, learning complex business systems, communicating complex concepts, being a self-starter, and problem solving.
-
 [Resume](eliraffo.github.io/AlphaResume.PDF)
 
 ## Operations and Business Analytic Projects:
