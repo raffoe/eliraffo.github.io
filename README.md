@@ -16,4 +16,7 @@ Resume and Portfolio
 - [Lane Forest Products](eliraffo.github.io/LOR_LaneForest.PDF)
 - [Townshend's Tea Company](eliraffo.github.io/LOR_Townshends.PDF)
 
-## Certificates:
+## Programming Experience:
+- Python
+- SQL
+- JavaScript
