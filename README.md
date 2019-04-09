@@ -1,5 +1,5 @@
 # Elijah Raffo  
-Professional Qualification, Experience, and Projects
+Professional Qualifications, Experience, and Projects
 
 ## Curriculum Vitae:
 [Resume](eliraffo.github.io/AlphaResume_ERaffo(2019).pdf)
