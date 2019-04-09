@@ -2,7 +2,7 @@
 Professional Qualification, Experience, and Projects
 
 ## Curriculum Vitae:
-[Resume](eliraffo.github.io/AlphaResume.PDF)
+[Resume](eliraffo.github.io/AlphaResume_ERaffo(2019).pdf)
 
 ## Operations and Business Analytic Projects:
 - Project and Operations Management Models
