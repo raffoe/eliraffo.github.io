@@ -12,10 +12,6 @@ Resume and Portfolio
 - Predictive Analytics (OBA 410)
   - [Wine Classification](https://github.com/eliraffo/eliraffo.github.io/tree/master/WineClassification/)
 
-## Programming Exercises:
-- Python
-  - To Be Added
-- JavaScript
-  - To Be Added
-- SQL
-  - To Be Added
+## Letters of Recommendation:
+- [Lane Forest Products](eliraffo.github.io/LOR_LaneForest)
+- [Townshends Tea](eliraffo.github.io/LOR_Townshends)
