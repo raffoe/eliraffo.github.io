@@ -13,5 +13,5 @@ Resume and Portfolio
   - [Wine Classification](https://github.com/eliraffo/eliraffo.github.io/tree/master/WineClassification/)
 
 ## Letters of Recommendation:
-- [Lane Forest Products](eliraffo.github.io/LOR_LaneForest)
-- [Townshends Tea](eliraffo.github.io/LOR_Townshends)
+- [Lane Forest Products](eliraffo.github.io/LOR_LaneForest.PDF)
+- [Townshends Tea](eliraffo.github.io/LOR_Townshends.PDF)
