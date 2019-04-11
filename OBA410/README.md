@@ -11,6 +11,6 @@ Because our dataset was heavily comprised of 5 and 6 quality ratings we decided 
 
 A large part of this project was testing machine learning models, such as K-Nearest Neighbor, Logistic Regression, Linear SVM, SVM, Decision Tree, and Random Forest. Correctly training, testing, and understanding the math behind models is important in assessing accuracy; however, we also tried to understand how these models could affect the industrial wine making process. The best model for creating impact was the decision tree because a company could use additives to adjust a batch of wine to make a bad wine taste good. 
 
-Our [presentation](Wine_Presentation.pdf) and [paper](https://github.com/eliraffo/eliraffo.github.io/blob/master/OBA410/Wine_Paper.pdf) describe in better detail the findings of the our project. 
+Our [presentation](Wine_Presentation.pdf) and [paper](Wine_Paper.pdf) describe in better detail the findings of the our project. 
 
 Please navigate to the [Homepage](https://github.com/eliraffo/eliraffo.github.io/tree/master/OBA410) if you would like to see the whole project.
