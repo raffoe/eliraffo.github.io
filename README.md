@@ -19,6 +19,6 @@ Professional Qualifications, Experience, and Projects
 ## Programming Experience:
 - Python
 - R
-- VBA
 - SQL
 - JavaScript
+- VBA
