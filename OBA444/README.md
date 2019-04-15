@@ -15,7 +15,7 @@ Once the ER diagram was complete we developed a Relational Schema normalized to 
 - [Accessory Price by Console](https://github.com/eliraffo/eliraffo.github.io/tree/master/OBA444/SQL_AccessoryPriceByConsole.sql)
 - [Union of Average Star and Average Number of Reviews](https://github.com/eliraffo/eliraffo.github.io/tree/master/OBA444/SQL_ViewunionGames_AvgStar_AvgNumRev_Prime.sql)
 
-We would recommend that a mother buying a gift for her two children by a Switch because of the high ratings, high number of answered questions online by suppliers, and low prices for a 2nd controller.
+We would recommend that a parent purchasing a gift for their two children buy a Switch because of the high ratings, high amount of questions answered on amazon by the supplier, and low prices for a 2nd controller.
 
 Our [paper](DB_Paper.pdf) and [presentation](DB_Presentation.pdf) describe in detail our insights, methodology, and applied skills.
 
