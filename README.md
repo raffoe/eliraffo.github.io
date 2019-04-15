@@ -17,8 +17,8 @@ Professional Qualifications, Experience, and Projects
 - [Townshend's Tea Company](eliraffo.github.io/LOR_Townshends.PDF)
 
 ## Programming Experience:
-- Python
-- R
-- SQL
-- JavaScript
-- VBA
+- [Python](eliraffo.github.io/Python)
+- [SQL](eliraffo.github.io/SQL
+- [JavaScript](eliraffo.github.io/JavaScript)
+- [R](eliraffo.github.io/R)
+- [VBA](eliraffo.github.io/VBA)
