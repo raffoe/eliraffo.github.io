@@ -1,6 +1,0 @@
-a.	primary key – A column that is unique, and cannot have a “null” value. You use a primary key like a unique identification number (ID)
-b.	foreign key – a column that is used to identify a row to be connected to another database. You can use a foreign key in one database that is a primary key in another database
-c.	surrogate key – an artificial primary key that has no context other than being generated
-d.	entity integrity – how the database correctly created a primary key that is unique to the table
-e.	referential integrity – checking to ensure that foreign keys match with primary keys
-f.	weak entity – something that cannot be identified as unique without the use of a primary key or foreign key.
