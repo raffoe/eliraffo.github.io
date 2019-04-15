@@ -1,0 +1,1 @@
+DELETE FROM `test`.`assignment_1_cit381` WHERE (`ID` = '5');
