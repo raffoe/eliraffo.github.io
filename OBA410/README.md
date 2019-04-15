@@ -6,6 +6,7 @@ Using python, developed machine learning models to classify and predict the qual
 
 ## Guide:
 ![DecisionTree](DecisionTree.PNG)
+
 Our [dataset](https://github.com/eliraffo/eliraffo.github.io/blob/master/OBA410/Wine_Data.csv) is comprised of data on white and red wine. Columns such as sulfur, residual sugars, etc. can be used to describe the characteristics of the wine. The 'Y' column of the data is the quality score which is on a scale from 1 to 10, and is the defined by how good the wine tastes.
 
 Because our dataset was heavily comprised of 5 and 6 quality ratings we decided to develop classification models for the wine. Wines 5 and below were considered bad, and wines 6 and above were classified as good. Our [python code](https://github.com/eliraffo/eliraffo.github.io/blob/master/OBA410/Wine_Model.ipynb) tested machine learning models on three groups of data: the complete dataset, a dataset which only comprised white wine, and a dataset which only comprised red wine.
