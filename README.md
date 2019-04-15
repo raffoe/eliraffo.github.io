@@ -18,7 +18,7 @@ Professional Qualifications, Experience, and Projects
 
 ## Programming Experience:
 - [Python](eliraffo.github.io/Python)
-- [SQL](eliraffo.github.io/SQL
+- [SQL](eliraffo.github.io/SQL)
 - [JavaScript](eliraffo.github.io/JavaScript)
 - [R](eliraffo.github.io/R)
 - [VBA](eliraffo.github.io/VBA)
