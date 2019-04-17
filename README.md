@@ -12,6 +12,10 @@ Professional Qualifications, Experience, and Projects
 - Predictive Analytics
   - [Wine Classification](eliraffo.github.io/OBA410)
 
+## Letters of Recommendation:
+- [Lane Forest Products](eliraffo.github.io/LOR_LaneForest.PDF)
+- [Townshend's Tea Company](eliraffo.github.io/LOR_Townshends.PDF)
+
 ## More About Me:
 While my [resume](eliraffo.github.io/AlphaResume_ERaffo(2019).pdf) outline my qualifications, two characteristic I wish to highlight are my passion for learning and challenge. Simply put, I will bring value to your company because I enjoy experiencing challenges and learning from them.
 
@@ -19,11 +23,5 @@ While working at Lane Forest Products my favorite experiences came when I learne
 
 Outside of my degree I also earned a Certificate in Outdoor Leadership. Over 3 years, I attended classes on developing leadership skills and survival skills in the backcountry. I applied these lessons as an assistant leader in university classes taught by the Outdoor Pursuits Program. Leading groups of six on three-day backcountry outings, teaching outdoor rock-climbing safety, and teaching vertical rescue techniques helped me develop my skills in communicating technical ideas simply. Furthermore, attending and leading these backcountry outings taught me how to engage with challenges. Of how to wake up and engage with my teammates after falling asleep cold and wet.
 
-If you would like to contact me you can find all my contact information at the top of my resume. Please feel free to read my Letter of Recommendation if you would like to learn more about me.
-
-## Letters of Recommendation:
-- [Lane Forest Products](eliraffo.github.io/LOR_LaneForest.PDF)
-- [Townshend's Tea Company](eliraffo.github.io/LOR_Townshends.PDF)
-
-
+If you would like to contact me you can find all my contact information at the top of my resume.
 
