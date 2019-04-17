@@ -17,7 +17,7 @@ Professional Qualifications, Experience, and Projects
 - [Townshend's Tea Company](eliraffo.github.io/LOR_Townshends.PDF)
 
 ## More About Me:
-While my [resume](eliraffo.github.io/AlphaResume_ERaffo(2019).pdf) outline my qualifications, two characteristic I wish to highlight are my passion for learning and challenge. Simply put, I will bring value to your company because I enjoy experiencing challenges and learning from them.
+While my [resume](eliraffo.github.io/AlphaResume_ERaffo(2019).pdf) outlines my qualifications, two characteristics I wish to highlight are my passion to: challenge myself and learn more. Simply put, I will bring value to your company because I will face challenges, and learn from these experiences.
 
 While working at Lane Forest Products my favorite experiences came when I learned a new business system with the help of my coworkers. When conducting the Delivery Department analysis, I had the pleasure of meeting with accountants, mechanics, department heads, stakeholders, and sales staff to understand all the separate pieces that come together to complete a customer’s order. First, I learned the complex system, conducted quantitative anaylsis, and developed actionable steps. Then, I synthesisised months of analytic work into simple charts and actionable steps. Learning complex systems, simplifying those understandings, and implementing improvements is a passion of mine and something which can add value to any business.
 
