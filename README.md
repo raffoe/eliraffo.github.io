@@ -6,8 +6,7 @@ Professional Qualifications, Experience, and Projects
 
 ## Operations and Business Analytic Projects:
 - Project and Operations Management Models - ([Hershey's Optimization](eliraffo.github.io/OBA466))
-- Business Database Management Systems
-  - [Video Game Database](eliraffo.github.io/OBA444)
+- Business Database Management Systems | [Video Game Database](eliraffo.github.io/OBA444)
 - Predictive Analytics
   - [Wine Classification](eliraffo.github.io/OBA410)
 
