@@ -16,9 +16,9 @@ An operations and business analyst with a passion for utilizing information to c
    - Developed an automated delivery price spreadsheet which is being tested for implementation in the Delivery Department.
 
 ## Completed Business Analytics Projects:
-- Project and Operations Management Models -> [Hershey's Optimization](eliraffo.github.io/OBA466)
-- Business Database Management Systems -> [Video Game Database](eliraffo.github.io/OBA444)
-- Predictive Analytics -> [Wine Classification](eliraffo.github.io/OBA410)
+- Project and Operations Management Models / [Hershey's Optimization](eliraffo.github.io/OBA466)
+- Business Database Management Systems / [Video Game Database](eliraffo.github.io/OBA444)
+- Predictive Analytics / [Wine Classification](eliraffo.github.io/OBA410)
 
 ## Letters of Recommendation:
 - [Lane Forest Products](eliraffo.github.io/LOR_LaneForest.PDF)
