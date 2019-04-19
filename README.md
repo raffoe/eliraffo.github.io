@@ -10,7 +10,7 @@ An operations and business analyst with a passion for utilizing information to c
 - Operated as the inventory control specialist of a logistic reload which over 6 months moved over 55,000 tons of material.
 - Operated as the export specialist for international orders by managing documentation and movement of materials.
 
-#### Operations Analytics Projects:
+#### Work Project Outcomes:
 - Conducted an analysis of the Delivery Department by quantitatively measuring costs and modeling possible profit/loss combinations which resulted in a proposed pricing structure that is estimated to increase department annual profit by $36,000.
 - Created Visual models which were presented to Department Heads which intuitively displayed ~50,000 Profit/Loss combinations.
 - Developed an automated delivery price spreadsheet which is being tested for implementation in the Delivery Department.
