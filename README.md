@@ -2,7 +2,7 @@
 An operations and business analyst with a passion for utilizing information to create and implement impactful solutions. Completed analytic projects in business operations, large datasets, automation, and measuring key performance indicators. Has experienced working within in a fast-paced environment, building a team, learning complex business systems, communicating complex concepts, being a self-starter, and problem solving. 
 
 # Professional Qualifications, Experience, and Projects:
-### [Resume](eliraffo.github.io/AlphaResume_ERaffo(2019).pdf)
+#### [Resume](eliraffo.github.io/AlphaResume_ERaffo(2019).pdf)
 
 ## Work Experience | Highlights
 - Answered stakeholder questions by performing database queries, data analysis, and data visualization to present useful information.
@@ -10,12 +10,12 @@ An operations and business analyst with a passion for utilizing information to c
 - Operated as the inventory control specialist of a logistic reload which over 6 months moved over 55,000 tons of material.
 - Operated as the export specialist for international orders by managing documentation and movement of materials.
 
-### Analytic Projects:
+#### Operations Analytics Projects:
 - Conducted an analysis of the Delivery Department by quantitatively measuring costs and modeling possible profit/loss combinations which resulted in a proposed pricing structure that is estimated to increase department annual profit by $36,000.
-   - Created Visual models which were presented to Department Heads which intuitively displayed ~50,000 Profit/Loss combinations.
-   - Developed an automated delivery price spreadsheet which is being tested for implementation in the Delivery Department.
+- Created Visual models which were presented to Department Heads which intuitively displayed ~50,000 Profit/Loss combinations.
+- Developed an automated delivery price spreadsheet which is being tested for implementation in the Delivery Department.
 
-## Completed Business Analytics Projects:
+## Academic Business Analytics Projects:
 - Project and Operations Management Models / [Hershey's Optimization](eliraffo.github.io/OBA466)
 - Business Database Management Systems / [Video Game Database](eliraffo.github.io/OBA444)
 - Predictive Analytics / [Wine Classification](eliraffo.github.io/OBA410)
