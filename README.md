@@ -38,15 +38,19 @@ While my [resume](eliraffo.github.io/AlphaResume_ERaffo(2019).pdf) outlines my q
 - Communicating complex ideas simply by engaging stakeholders with visualizations and conversation
 ![left-aligned-image](image.jpg =250x205){: .align-right}
 
-#### Certificates in Progress:
-- Python for Programming, and Python for Data Science and Machine Learning
+#### Certificates I am actively completeing:
+- Python for Programming
+- Python for Data Science and Machine Learning
 - R Programming for Data Science and Advanced Analytics 
 - VBA and Macros
-- Big Data using Hadoop, Spark, and Python
+- Big Data using Hadoop
+- Big Data using Spark and Python
 
-#### Completed Certificates:
+#### Certificates I have completed:
+- Bachelors of Science from the University of Oregon
 - A to Z of Data Science
 - Outdoor Leadership
-- Wilderness Firest Responder
+- Wilderness First Responder
+
 
 If you would like to contact me, you can find all my contact information at the top of my resume. I always enjoy conversations that relate to operations management, data analytics, and data science.
