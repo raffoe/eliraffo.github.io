@@ -20,7 +20,7 @@ Has experienced working within a fast-paced environment, building a team, learni
 - Created Visual models which were presented to Department Heads which intuitively displayed ~50,000 Profit/Loss combinations.
 - Developed an automated delivery price spreadsheet which is being tested for implementation in the Delivery Department.
 
-## Academic Business Analytics Projects:
+## Business Analytics Projects:
 - Project and Operations Management Models / [Hershey's Optimization](eliraffo.github.io/OBA466)
 - Business Database Management Systems / [Video Game Database](eliraffo.github.io/OBA444)
 - Predictive Analytics / [Wine Classification](eliraffo.github.io/OBA410)
@@ -52,10 +52,10 @@ While my [resume](eliraffo.github.io/AlphaResume_ERaffo(2019).pdf) outlines my q
 - Wilderness First Responder
 
 #### Degree:
-University of Oregon ● Bachelor of Science in Business Administration
-Major Concentration ● Operations and Business Analytics 
-Minor ● Computer Information Technology
-Relevant Coursework:  Supply Chain Operations and Management ● Business Strategy and Planning ● Predictive Analytics ● Database Systems
-
+University of Oregon ● Bachelor of Science in Business Administration <br/>
+Major Concentration ● Operations and Business Analytics <br/>
+Minor ● Computer Information Technology <br/>
+Relevant Coursework: <br/>
+Supply Chain Operations and Management ● Business Strategy and Planning ● Predictive Analytics ● Database Systems
 
 If you would like to contact me, you can find all my contact information at the top of my resume. I always enjoy conversations that relate to operations management, data analytics, and data science.
