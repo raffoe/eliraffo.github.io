@@ -51,11 +51,4 @@ While my [resume](eliraffo.github.io/AlphaResume_ERaffo(2019).pdf) outlines my q
 - Outdoor Leadership
 - Wilderness First Responder
 
-#### Degree:
-University of Oregon ● Bachelor of Science in Business Administration <br/>
-Major Concentration ● Operations and Business Analytics <br/>
-Minor ● Computer Information Technology <br/>
-Relevant Coursework: <br/>
-Supply Chain Operations and Management ● Business Strategy and Planning ● Predictive Analytics ● Database Systems
-
 If you would like to contact me, you can find all my contact information at the top of my resume. I always enjoy conversations that relate to operations management, data analytics, and data science.
