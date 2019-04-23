@@ -29,16 +29,16 @@ Has experienced working within a fast-paced environment, building a team, learni
 - [Lane Forest Products](eliraffo.github.io/LOR_LaneForest.PDF)
 - [Townshend's Tea Company](eliraffo.github.io/LOR_Townshends.PDF)
 
-## More About Me:
+# More About Me:
 While my [resume](eliraffo.github.io/AlphaResume_ERaffo(2019).pdf) outlines my qualifications, two characteristics I wish to highlight are my abilities to solve complex problems, and my passion for learning new skills. 
 
-#### I solve complex problems by:
+#### Solving complex problems requires:
 - Learning business systems by engaging with different functional areas and asking questions
 - Analyzing data through imploring the use of SQL, Excel, Tableau, Python, and R.
 - Communicating complex ideas simply by engaging stakeholders with visualizations and conversation
 ![left-aligned-image](image.jpg =250x205){: .align-right}
 
-#### Certificates I am actively completeing:
+#### Certificates I am Actively Completing:
 - Python for Programming
 - Python for Data Science and Machine Learning
 - R Programming for Data Science and Advanced Analytics 
@@ -46,11 +46,16 @@ While my [resume](eliraffo.github.io/AlphaResume_ERaffo(2019).pdf) outlines my q
 - Big Data using Hadoop
 - Big Data using Spark and Python
 
-#### Certificates I have completed:
-- Bachelors of Science from the University of Oregon
+#### Completed Certificates:
 - A to Z of Data Science
 - Outdoor Leadership
 - Wilderness First Responder
+
+#### Degree:
+University of Oregon ● Bachelor of Science in Business Administration
+Major Concentration ● Operations and Business Analytics 
+Minor ● Computer Information Technology
+Relevant Coursework:  Supply Chain Operations and Management ● Business Strategy and Planning ● Predictive Analytics ● Database Systems
 
 
 If you would like to contact me, you can find all my contact information at the top of my resume. I always enjoy conversations that relate to operations management, data analytics, and data science.
