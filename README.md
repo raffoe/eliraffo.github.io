@@ -32,23 +32,15 @@ Has experienced working within a fast-paced environment, building a team, learni
 # More About Me:
 While my [resume](eliraffo.github.io/AlphaResume_ERaffo(2019).pdf) outlines my qualifications, two characteristics I wish to highlight are my abilities to solve complex problems, and my passion for learning new skills. 
 
-#### Solving complex problems requires:
+### Solving complex problems requires:
 - Learning business systems by engaging with different functional areas and asking questions
 - Analyzing data through imploring the use of SQL, Excel, Tableau, Python, and R.
 - Communicating complex ideas simply by engaging stakeholders with visualizations and conversation
 ![left-aligned-image](image.jpg =250x205){: .align-right}
 
-#### Certificates I am Actively Completing:
-- Python for Programming
-- Python for Data Science and Machine Learning
-- R Programming for Data Science and Advanced Analytics 
-- VBA and Macros
-- Big Data using Hadoop
-- Big Data using Spark and Python
+### Current Progress and Future Steps:
 
-#### Completed Certificates:
-- A to Z of Data Science
-- Outdoor Leadership
-- Wilderness First Responder
+#### Data Science  |  Operations Management  |  Leadership
 
-If you would like to contact me, you can find all my contact information at the top of my resume. I always enjoy conversations that relate to operations management, data analytics, and data science.
+## Thank you:
+Thank you for your time to, and if you would like to contact me, you can find all my contact information at the top of my resume. I always enjoy conversations that relate to data science, operations management, and leadership.
