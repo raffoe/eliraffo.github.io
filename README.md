@@ -23,7 +23,7 @@ International Export
 - Conducted an analysis of the Delivery Department and proposed pricing which is estimated to increase department annual profit by $36,000.
   -  Created Visual models which were presented to Department Heads which intuitively displayed ~50,000 Profit/Loss combinations.
   
--Implemented a redesigned Point-of-Sale interface at all Eugene Teahouse locations which resulted in:
+- Implemented a redesigned Point-of-Sale interface at all Eugene Teahouse locations which resulted in:
   - Data that can measure Key Performance Indicators and be used in a Material Resource Planning system
 
 Delivery Analysis  |  Townshend's Tea
@@ -34,8 +34,7 @@ Delivery Analysis  |  Townshend's Tea
 - Predictive Analytics  |  [Wine Classification](eliraffo.github.io/OBA410)
 
 ## Letters of Recommendation:
-- [Lane Forest Products](eliraffo.github.io/LOR_LaneForest.pdf)
-- [Townshend's Tea Company](eliraffo.github.io/LOR_Townshends.PDF)
+#### [Lane Forest Products](eliraffo.github.io/LOR_LaneForest.pdf)  |  [Townshend's Tea Company](eliraffo.github.io/LOR_Townshends.PDF)
 
 # More About Me:
 Two characteristics I wish to highlight are my abilities to solve complex problems, and my passion for learning new skills. 
