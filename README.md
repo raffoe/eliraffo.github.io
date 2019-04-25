@@ -26,7 +26,7 @@ Has experienced working within a fast-paced environment, building a team, learni
 - Predictive Analytics / [Wine Classification](eliraffo.github.io/OBA410)
 
 ## Letters of Recommendation:
-- [Lane Forest Products](eliraffo.github.io/LOR_LaneForest.PDF)
+- [Lane Forest Products](eliraffo.github.io/LOR_LaneForest.pdf)
 - [Townshend's Tea Company](eliraffo.github.io/LOR_Townshends.PDF)
 
 # More About Me:
