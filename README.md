@@ -4,7 +4,7 @@ A business and data analyst with a passion for utilizing information to create a
 Has experienced working within a fast-paced environment, building a team, learning complex business systems, communicating nuanced concepts, being a self-starter, and problem solving.
 
 # Professional Qualifications, Experience, and Projects:
-### [Resume](eliraffo.github.io/AlphaResume_ERaffo(2019).pdf)  |  Portfolio
+### [Resume](eliraffo.github.io/AlphaResume_ERaffo(2019).pdf)  |  [Portfolio Highlights](PortfolioPDFs/HighlightedPortfolio.pdf)
 
 ## Work Experience
 #### General Responsibilites
