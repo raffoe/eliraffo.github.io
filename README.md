@@ -7,7 +7,7 @@ Has experienced working within a fast-paced environment, building a team, learni
 ### [Resume](eliraffo.github.io/AlphaResume_ERaffo(2019).pdf)  |  [Portfolio Highlights](PortfolioPDFs/HighlightedPortfolio.pdf)
 
 ## Work Experience
-#### General Responsibilites
+#### General Responsibilities
 - Answered stakeholder questions by performing database queries, data analysis, and data visualization to present useful information.
 - Improved functional areas by redesigning spreadsheets and introducing new procedures enabling work to be done more efficiently.
 
@@ -37,12 +37,13 @@ Has experienced working within a fast-paced environment, building a team, learni
 #### [Lane Forest Products](eliraffo.github.io/LOR_LaneForest.pdf)  |  [Townshend's Tea Company](eliraffo.github.io/LOR_Townshends.PDF)
 
 # More About Me:
-Two characteristics I wish to highlight are my abilities to solve complex problems, and my passion for learning new skills. 
+Two characteristics I wish to highlight are my ability to solve complex problems, and my passion for learning new skills. 
 
 ### Solving complex problems requires:
-- Learning business systems by engaging with different functional areas and asking questions
+- Learning business systems by engaging with different functional areas and asking questions.
 - Analyzing data through imploring the use of SQL, Excel, Tableau, Python, and R.
-- Communicating complex ideas simply by engaging stakeholders with visualizations and conversation
+- Building a narrative from the qualitative and quantitative finds.
+- Communicating actionable steps and engaging stakeholders with visualizations and conversation.
 <!-- ![left-aligned-image](image.jpg =250x205){: .align-right} -->
 
 ### Current Progress and Future Steps to Working in:
