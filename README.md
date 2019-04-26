@@ -11,13 +11,13 @@ Has experienced working within a fast-paced environment, building a team, learni
 - Answered stakeholder questions by performing database queries, data analysis, and data visualization to present useful information.
 - Improved functional areas by redesigning spreadsheets and introducing new procedures enabling work to be done more efficiently.
 
-##### Kingsford  |  Bixler  |  Offsite Production
+##### [Kingsford](PortfolioPDFs/KingsfordPortfolio.PDF)  |  [Bixler](PortfolioPDFs/BixlerPortfolio.PDF)  |  [Offsite Production](PortfolioPDFs/OSPPortfolio.PDF)
 
 #### Highlights
 - Operated as the inventory control specialist of a logistic reload which over 6 months moved over 55,000 tons of material.
 - Operated as the export specialist for international orders by managing documentation and movement of materials.
 
-##### International Export
+##### [International Export](PortfolioPDFs/ExportPortfolio.PDF)
 
 #### Projects:
 - Conducted an analysis of the Delivery Department and proposed pricing which is estimated to increase department annual profit by $36,000.
@@ -26,7 +26,7 @@ Has experienced working within a fast-paced environment, building a team, learni
 - Implemented a redesigned Point-of-Sale interface at all Eugene Teahouse locations which resulted in:
   - Data that can measure Key Performance Indicators and be used in a Material Resource Planning system
 
-##### Delivery Analysis  |  Townshend's Tea
+##### [Delivery Analysis](PortfolioPDFs/DeliveryPortfolio.PDF)  |  [Townshend's Tea](PortfolioPDFs/TownshendsPortfolio.PDF)
 
 ## Business Analytics Projects:
 ##### Project and Operations Management Models  |  [Hershey's Optimization](eliraffo.github.io/OBA466)
