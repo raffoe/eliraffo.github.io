@@ -43,10 +43,10 @@ Two characteristics I wish to highlight are my abilities to solve complex proble
 - Learning business systems by engaging with different functional areas and asking questions
 - Analyzing data through imploring the use of SQL, Excel, Tableau, Python, and R.
 - Communicating complex ideas simply by engaging stakeholders with visualizations and conversation
-![left-aligned-image](image.jpg =250x205){: .align-right}
+<!-- ![left-aligned-image](image.jpg =250x205){: .align-right} -->
 
-### Current Progress and Future Steps to Become a/an:
-#### Data Science  |  Operations Management  |  Leader
+### Current Progress and Future Steps to Working in:
+#### Data Science  |  Operations and Supply Chain  |  Project Management
 
 ## Thank you:
-Thank you for your time, and if you would like to contact me please reach out for a conversation. You can find me on LinkedIn, and my email is eliraffo@gmail.com. I always enjoy conversations that relate to data science, operations management, and leadership.
+Thank you for your time, and if you would like to contact me please reach out for a conversation. You can find me on [LinkedIn](https://www.linkedin.com/in/eliraffo/), and my email is <eliraffo@gmail.com>. I always enjoy conversations that relate to data science, operations management, and leadership.
